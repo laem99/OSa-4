@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJvb3RhYWEiLCJpZCI6IjYxODExZDJiYTFjNGVlZTEwMTVhNzFkYiIsImlhdCI6MTYzNTkyNDkxNX0.xUDo1PL4P-eDhlKcIVDWCa8jr0cq6GyppA4dAmdFGpk
+
+{
+    "title": "test2.6",
+    "author": "rootaaa",
+    "url": "test2.6.com",
+    "likes": 51
+}

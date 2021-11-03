@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5c2VybmFtZSI6Im1sdXVra2FpIiwiaW
+
+{
+    "title": "xcvxc",
+    "Author": "xcvxcvxcv",
+    "url": "asdasdxcvcvx.com",
+    "userId": "61811d2ba1c4eee1015a71db"
+}
